@@ -1,6 +1,6 @@
 {
     "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_behavior_applet/master/protocols/TokenLogger/TokenLogger_context"
+        "https://raw.githubusercontent.com/charlie42/TokenLogger_behavior_applet/master/protocols/TokenLogger/TokenLogger_context"
     ],
     "@type": "reproschema:Protocol",
     "@id": "TokenLogger_schema",
