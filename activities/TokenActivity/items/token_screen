@@ -14,7 +14,7 @@
     "responseOptions": {
         "valueType": "xsd:integer",
         "schema:minValue": 0,
-        "schema:maxValue": 1,
+        "schema:maxValue": 3,
         "multipleChoice": true,
         "choices": [{
             "@type": "schema:option",
@@ -24,12 +24,12 @@
         {
             "schema:name": "Finish eating breakfast before 8:30am",
             "@type": "schema:option",
-            "schema:value": 1
+            "schema:value": 2
         },
         {
             "schema:name": "Leave for camp like a big boy (without arguing) by 9am",
             "@type": "schema:option",
-            "schema:value": 1
+            "schema:value": 3
         }]
     }
 }
