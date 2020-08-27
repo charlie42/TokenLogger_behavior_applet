@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/charlie42/TokenLogger_behavior_applet/master/protocols/TokenLogger/TokenLogger_context"
     ],
     "@type": "reproschema:Protocol",
-    "@id": "TokenLogger_schema",
+    "@id": "TokenLogger_behavior_schema",
     "skos:prefLabel": "TokenLogger",
     "schema:description": "protocol for TokenLogger",
     "schema:schemaVersion": "0.0.1",
