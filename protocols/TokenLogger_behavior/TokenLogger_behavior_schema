@@ -1,0 +1,24 @@
+{
+    "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/charlie42/TokenLogger_behavior_applet/master/protocols/TokenLogger_behavior/TokenLogger_behavior_context"
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "TokenLogger_behavior_schema",
+    "skos:prefLabel": "TokenLogger_behavior",
+    "schema:description": "protocol for TokenLogger_behavior",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "landingPage": "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_behavior_applet/master/protocols/TokenLogger_behavior/README.md",
+    "ui": {
+        "addProperties": [
+            {"variableName": "TokenActivity_behavior_schema",
+            "isAbout": "TokenActivity_behavior_schema",
+            "isVis": true
+            }
+        ],
+        "order": [
+            "TokenActivity_behavior_schema"
+        ],
+        "shuffle": false
+    }
+}
